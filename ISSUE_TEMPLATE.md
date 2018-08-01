@@ -1,6 +1,10 @@
 ### NOT FOLLOWING THIS ISSUE TEMPLATE WILL RESULT IN YOUR ISSUE BEING DELETED. 
 ### NO EXCEPTIONS. (You can delete these first two lines when submitting your issue.)
 
+#### Please format the title as such: 
+[Spellbreak Version] Mod Name - Issue
+
+----
 
 #### Mods Involved:
 Please list all the mods involved in this issue:
