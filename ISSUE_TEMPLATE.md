@@ -1,5 +1,5 @@
 ### NOT FOLLOWING THIS ISSUE TEMPLATE WILL RESULT IN YOUR ISSUE BEING DELETED. 
-### NO EXCEPTIONS.
+### NO EXCEPTIONS. (You can delete these first two lines when submitting your issue.)
 
 
 #### Mods Involved:
