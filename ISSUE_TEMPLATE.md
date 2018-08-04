@@ -8,8 +8,8 @@
 
 #### Mods Involved:
 Please list all the mods involved in this issue:
-- Mod #1
-- Mod #2
+- Mod 1
+- Mod 2
 
 #### Issue type:
 Please select one of the below options and delete any additional ones.
